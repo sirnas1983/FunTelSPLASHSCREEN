@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TP3SplashScreen</string>
-    <string name="my_first_splash_screen">My First Splash Screen</string>
+    <string name="my_first_splash_screen">Mi primer Splash</string>
+    <string name="hola_conecta_empleo">¡Hola Conecta Empleo!</string>
 </resources>

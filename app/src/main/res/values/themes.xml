@@ -5,7 +5,10 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.TP3SplashScreen" parent="Base.Theme.TP3SplashScreen" >
+    <style name="Theme.TP3SplashScreen" parent="Base.Theme.TP3SplashScreen"> >
         <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="NoActionBar" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
     </style>
 </resources>
