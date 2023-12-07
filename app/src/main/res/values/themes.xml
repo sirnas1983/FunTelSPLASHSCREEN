@@ -9,6 +9,4 @@
         <item name="android:windowIsTranslucent">true</item>
     </style>
 
-    <style name="NoActionBar" parent="@android:style/Theme.Holo.NoActionBar.Fullscreen">
-    </style>
 </resources>
